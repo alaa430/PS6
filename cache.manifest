@@ -1,6 +1,10 @@
 CACHE MANIFEST 
 
 CACHE: 
+alert.mjs
+config.mjs
+exploit.mjs
+index.html
 module\chain.mjs
 module\constants.mjs
 module\int64.mjs
@@ -9,11 +13,6 @@ module\memtools.mjs
 module\offset.mjs
 module\rw.mjs
 module\utils.mjs
-alert.mjs
-config.mjs
-psfree.mjs
-exploit.html
-index.html
 img.jpg
 exp\exploit.js
 exp\int64.js
