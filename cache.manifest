@@ -3,6 +3,7 @@ CACHE MANIFEST
 CACHE: 
 alert.mjs
 config.mjs
+psfree.mjs
 exploit.mjs
 index.html
 module\chain.mjs
