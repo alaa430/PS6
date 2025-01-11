@@ -56,9 +56,9 @@ res\vr.png
 res\wrte.png
 WebBrowser\index.html
 WebBrowser\css\main.css
-alert.mjs
-config.mjs
 psfree.mjs
+config.mjs
+alert.mjs
 module\chain.mjs
 module\constants.mjs
 module\int64.mjs
